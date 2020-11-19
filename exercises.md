@@ -1,5 +1,3 @@
-continue with 4th exercise
-
 # GitHub Classroom Test Exercise (12.11.2020)
 
 Let's do a little exercise to practice the GitHub Classroom workflow. The task itself is not meant to be challenging. :wink:
@@ -166,3 +164,20 @@ Here are the files:
 # Solution
 
 [wiki_exercise.html](html/wiki-exercise.html)
+
+# You've got class!
+
+**Instructions**:
+
+- Change the color of all list items with a class of "list-item".
+- Change the color of all headings with the class of "heading".
+- Change the background color of the element with an id.
+
+**Bonus**: Add an id to another element and change the background color and change the opacity of the background color.
+
+![ref-picture](pics/reference-image.png)
+
+# Solution
+
+[solution.html](/html/solution.html)
+[stylesI.css](css/stylesI.css)
