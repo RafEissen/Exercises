@@ -1,3 +1,5 @@
+continue with 4th exercise
+
 # GitHub Classroom Test Exercise (12.11.2020)
 
 Let's do a little exercise to practice the GitHub Classroom workflow. The task itself is not meant to be challenging. :wink:
@@ -78,7 +80,7 @@ Please use our GitHub Classroom workflow: working branch => pull request
 
 - Add some styling to the lists you created: Using descendant combinators, make the unordered list display squares, and the ordered list display roman numerals.
 
-[carrot-cake.html](html/carrot.cake.html)
+[carrot-cake.html](html/carrot-cake.html)
 [stylesI.css](css/stylesI.css)
 
 ![cake](pics/cake.png)
@@ -128,8 +130,27 @@ Please use our GitHub Classroom workflow: working branch => pull request
 
 # Solutiton
 
-[headings_title_pre-tag](html/index.html)
+[index.html file](html/index.html)
 
 ![headings_title_pre-tag](pics/headings_with_pre-tag.png)
 
 <hr>
+
+# Basic CSS Exercises
+
+## Exercise: CSS Descendant Selectors
+
+**Instructions**:
+
+1. Modify the given page to make it look like the mockup.
+
+Here is the mockup picture:
+
+![mockup_picture](pics/mockup.png)
+
+# Solution
+
+Here are the files:
+
+[index1.html](html/index1.html)
+[styles1.css](css/stylesI.css)
