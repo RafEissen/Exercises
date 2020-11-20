@@ -78,7 +78,7 @@ Please use our GitHub Classroom workflow: working branch => pull request
 
 - Add some styling to the lists you created: Using descendant combinators, make the unordered list display squares, and the ordered list display roman numerals.
 
-[carrot-cake.html](html/carrot-cake.html)
+[carrot-cake.html](html/carrot-cake.html) <br>
 [stylesI.css](css/stylesI.css)
 
 ![cake](pics/cake.png)
@@ -150,7 +150,7 @@ Here is the mockup picture:
 
 Here are the files:
 
-[index1.html](html/index1.html)
+[index1.html](html/index1.html) <br>
 [styles1.css](css/stylesI.css)
 
 # UIB-content-text
@@ -179,5 +179,26 @@ Here are the files:
 
 # Solution
 
-[solution.html](/html/solution.html)
+[solution.html](/html/solution.html) <br>
+[stylesI.css](css/stylesI.css)
+
+# UI-Basics-Content-Classes&IDs
+
+# How about ID'S?
+
+**Instructions**:
+
+- Modify either the classes or Id's in the HTML file and add or change the corresponding classes and Id's in the CSS file that you have for this exercise to make sure the text of the whole page is only in color blue.
+
+![alt-text](pics/reference-imageII.png)
+
+**Bonus**:
+
+- Separate the p tags in different DIVs.
+- Give either an ID or a class to each DIV.
+- Add a background color to each DIV.
+
+# Solution
+
+[index3.html](html/index3.html) <br>
 [stylesI.css](css/stylesI.css)

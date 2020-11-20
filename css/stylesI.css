@@ -19,3 +19,29 @@ h1 {
   background-color: darkgreen;
   opacity: 0.9;
 }
+
+/* ////////////////////////////////////////////// */
+
+/* index3.html */
+
+#red,
+.red {
+  color: blue;
+  font-size: 100px;
+}
+
+#title {
+  font-size: 20px;
+  color: blue;
+}
+
+#blue {
+  color: blue;
+  font-size: 100px;
+}
+
+.first,
+.second,
+.third {
+  background-color: lime;
+}
