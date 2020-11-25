@@ -151,7 +151,9 @@ Here is the mockup picture:
 Here are the files:
 
 [index1.html](html/index1.html) <br>
-[styles1.css](css/stylesI.css)
+[styles1.css](css/stylesI.css) <br>
+
+<hr>
 
 # UIB-content-text
 
@@ -163,7 +165,9 @@ Here are the files:
 
 # Solution
 
-[wiki_exercise.html](html/wiki-exercise.html)
+[wiki_exercise.html](html/wiki-exercise.html) <br>
+
+<hr>
 
 # You've got class!
 
@@ -175,7 +179,9 @@ Here are the files:
 
 **Bonus**: Add an id to another element and change the background color and change the opacity of the background color.
 
-![ref-picture](pics/reference-image.png)
+![ref-picture](pics/reference-image.png) <br>
+
+<hr>
 
 # Solution
 
@@ -201,7 +207,9 @@ Here are the files:
 # Solution
 
 [index3.html](html/index3.html) <br>
-[stylesI.css](css/stylesI.css)
+[stylesI.css](css/stylesI.css) <br>
+
+<hr>
 
 # Basic HTML Exercises
 
@@ -235,6 +243,8 @@ Below, add a heading for "Contact", and a link that creates an e-mail. That emai
 
 [external-links](html/index4.html)
 
+<hr>
+
 # Coloring Book
 
 **Instructions**:
@@ -249,4 +259,31 @@ Below, add a heading for "Contact", and a link that creates an e-mail. That emai
 # Solution
 
 [index5.html](html/index5.html) <br>
-[styles2.css](css/styles2.css)
+[styles2.css](css/styles2.css) <br>
+
+<hr>
+
+# Basic HTML Exercises
+
+## Exercise: Table Of Contents
+
+**Instructions**:
+
+1. Add a unique id to each heading tag in the page, make the id as descriptive as possible.
+
+2. Wrap the text in the table of contents in an ordered list so that each main heading and its sub headings are in the same list.
+
+3. In each list item under the main heading text, add another **nested** ordered list so that each sub heading is wrapped in a list item.
+
+4. For each of the list items in the table of contents, add an anchor link that wraps around the text. when the link is clicked, the page should scroll to that heading.
+
+5. At the end of each section in the text, before the next sub heading, add a "Back to top" link, that scrolls the page back to the top.
+
+6. Change the nested list numbering to roman numerals.
+
+# Solution:
+
+[index6.html](html/index6.html) <br>
+[styles3.css](css/styles3.css) <br>
+
+<hr>
