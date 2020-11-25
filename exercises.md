@@ -234,3 +234,19 @@ Below, add a heading for "Contact", and a link that creates an e-mail. That emai
 # Solution
 
 [external-links](html/index4.html)
+
+# Coloring Book
+
+**Instructions**:
+
+- Style each of the headings with the colors described in the heading.
+- Once you're finished, add alpha to each of the headings using `rgba`.
+- Then select all the paragraphs and add a hex color.
+
+![task1](pics/task1.png)
+![task2](pics/task2.png)
+
+# Solution
+
+[index5.html](html/index5.html) <br>
+[styles2.css](css/styles2.css)
