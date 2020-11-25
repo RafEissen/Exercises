@@ -202,3 +202,35 @@ Here are the files:
 
 [index3.html](html/index3.html) <br>
 [stylesI.css](css/stylesI.css)
+
+# Basic HTML Exercises
+
+## Exercise: External Links
+
+**Instructions**:
+
+Mark the text in the HTML file so that you will have a page with:
+
+1. One main title:
+
+   - Course resources
+
+2. Two secondary titles
+
+   - Useful tools
+   - HTML
+
+3. Two lists of links under the secondary titles.
+
+Below, add a heading for "Contact", and a link that creates an e-mail. That email link should have the default subject "Contact – Course Resources".
+
+**Note**:
+
+- The actual URL should **not** show on the page.
+- The link should open in a new tab.
+
+![Reference Image](pics/reference-imageIII.png)
+
+# Solution
+
+[external-links](html/index4.html)
