@@ -1,3 +1,35 @@
+# Exercise Overview
+
+[GitHub Classroom Test Exercise - 12.11.20](#github-classroom-test-exercise-12112020) <br>
+
+[Boilerplate (and Then Some) - 16.11.20](#boilerplate-and-then-some-16112020) <br>
+
+[UI Basics - Lists - 17.11.20](#boilerplate-and-then-some-16112020) <br>
+
+[HTML Structure Worksheet - 17.11.20](#basic-structure) <br>
+
+[Descendant Selectors - 17.11.20](#css-descendant-selectors) <br>
+
+[Wikipedia-page-Exercise - 17.11.20](#wikipedia-page-exercise) <br>
+
+[You've got class - 19.11.20](#youve-got-class) <br>
+
+[How about ID'S? - 19.11.20](#how-about-ids) <br>
+
+[External Links - 23.11.20](#exercise-external-links) <br>
+
+[Coloring Book - 23.11.20](#coloring-book) <br>
+
+[Table Of Contents - 23.11.20](#exercise-table-of-contents) <br>
+
+[LoVe-HAte - 24.11.20](#exercise-css-selectors-3) <br>
+
+[Lemon Drizzle Recipe (My Solution) - 25.11.20](#lemon-drizzle-recipe) <br>
+
+[Selectors 1 - 25.11.20](#exercise-css-selectors-1) <br>
+
+<hr>
+
 # GitHub Classroom Test Exercise (12.11.2020)
 
 Let's do a little exercise to practice the GitHub Classroom workflow. The task itself is not meant to be challenging. :wink:
@@ -26,6 +58,8 @@ Let's do a little exercise to practice the GitHub Classroom workflow. The task i
 ### Mr. Robot
 
 ![mr_robot](https://i.pinimg.com/originals/5e/58/3c/5e583cc55c31bca86687e132e130cd67.png)
+
+[back to Top](#exercise-overview)
 
 <hr>
 
@@ -63,6 +97,8 @@ Please use our GitHub Classroom workflow: working branch => pull request
 </html>
 ```
 
+[back to Top](#exercise-overview)
+
 # UI Basics
 
 ## Lists
@@ -78,10 +114,14 @@ Please use our GitHub Classroom workflow: working branch => pull request
 
 - Add some styling to the lists you created: Using descendant combinators, make the unordered list display squares, and the ordered list display roman numerals.
 
+# Solution:
+
 [carrot-cake.html](html/carrot-cake.html) <br>
 [stylesI.css](css/stylesI.css)
 
 ![cake](pics/cake.png)
+
+[back to Top](#exercise-overview)
 
 <hr>
 
@@ -126,17 +166,17 @@ Please use our GitHub Classroom workflow: working branch => pull request
 
 - Add the text from the following [file](/assets/logo.txt) into your html page so that it looks **exactly** like it does in the file. <br><br>
 
-# Solutiton
+# Solutiton:
 
 [index.html file](html/index.html)
 
 ![headings_title_pre-tag](pics/headings_with_pre-tag.png)
 
+[back to Top](#exercise-overview)
+
 <hr>
 
-# Basic CSS Exercises
-
-## Exercise: CSS Descendant Selectors
+# CSS Descendant Selectors
 
 **Instructions**:
 
@@ -146,16 +186,16 @@ Here is the mockup picture:
 
 ![mockup_picture](pics/mockup.png)
 
-# Solution
-
-Here are the files:
+# Solution:
 
 [index1.html](html/index1.html) <br>
 [styles1.css](css/stylesI.css) <br>
 
+[back to Top](#exercise-overview)
+
 <hr>
 
-# UIB-content-text
+# Wikipedia-Page-Exercise
 
 1. Open your favorite Wikipedia Article
 2. Turn it into a HTML webpage with correct headings and paragraphs where its appropriate
@@ -163,9 +203,11 @@ Here are the files:
 
 ![Example-Image](pics/wiki-exercise.png)
 
-# Solution
+# Solution:
 
 [wiki_exercise.html](html/wiki-exercise.html) <br>
+
+[back to Top](#exercise-overview)
 
 <hr>
 
@@ -186,7 +228,11 @@ Here are the files:
 # Solution
 
 [solution.html](/html/solution.html) <br>
-[stylesI.css](css/stylesI.css)
+[stylesI.css](css/stylesI.css) <br>
+
+[back to Top](#exercise-overview)
+
+<br>
 
 # UI-Basics-Content-Classes&IDs
 
@@ -204,10 +250,14 @@ Here are the files:
 - Give either an ID or a class to each DIV.
 - Add a background color to each DIV.
 
-# Solution
+# Solution:
 
 [index3.html](html/index3.html) <br>
 [stylesI.css](css/stylesI.css) <br>
+
+[back to Top](#exercise-overview)
+
+<br>
 
 <hr>
 
@@ -239,9 +289,11 @@ Below, add a heading for "Contact", and a link that creates an e-mail. That emai
 
 ![Reference Image](pics/reference-imageIII.png)
 
-# Solution
+# Solution:
 
-[external-links](html/index4.html)
+[external-links](html/index4.html) <br>
+
+[back to Top](#exercise-overview)
 
 <hr>
 
@@ -260,6 +312,10 @@ Below, add a heading for "Contact", and a link that creates an e-mail. That emai
 
 [index5.html](html/index5.html) <br>
 [styles2.css](css/styles2.css) <br>
+
+[back to Top](#exercise-overview)
+
+<br>
 
 <hr>
 
@@ -286,11 +342,11 @@ Below, add a heading for "Contact", and a link that creates an e-mail. That emai
 [index6.html](html/index6.html) <br>
 [styles3.css](css/styles3.css) <br>
 
+[back to Top](#exercise-overview)
+
 <hr>
 
-# Basic CSS Exercises
-
-## Exercise: CSS Selectors 3
+# Exercise: CSS Selectors 3
 
 **Instructions**:
 
@@ -304,6 +360,8 @@ Below, add a heading for "Contact", and a link that creates an e-mail. That emai
 
 [index7.html](html/index7.html) <br>
 [styles4.css](css/styles4.css) <br>
+
+[back to Top](#exercise-overview)
 
 <hr>
 
@@ -333,6 +391,13 @@ In order to see live version, just [click...!](https://hsnakk.github.io/UIB_Cont
 [index8.html](html/index8.html) <br>
 [styles5.css](css/styles5.css) <br>
 
+# Solution:
+
+[index10.html](html/index10.html) <br>
+[styles6.css](css/styles6.css) <br>
+
+[back to Top](#exercise-overview)
+
 <hr>
 
 # Basic CSS Exercises
@@ -349,7 +414,9 @@ In order to see live version, just [click...!](https://hsnakk.github.io/UIB_Cont
 
 ![alt-text](pics/reference-imageIV.jpg "Reference Image")
 
-# My Solution:
+# My Solution (identical with Alex's solution):
 
 [index9.html](html/index9.html) <br>
 [main.css](css/main.css) <br>
+
+[Back to Top](#exercise-overview)
