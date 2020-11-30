@@ -28,6 +28,10 @@
 
 [Selectors 1 - 25.11.20](#exercise-css-selectors-1) <br>
 
+[Recipe Book - 26.11.20](#recipe-book) <br>
+
+[Beyonce's Publicist - 26.11.20](#exercise-beyonces-publicist) <br>
+
 <hr>
 
 # GitHub Classroom Test Exercise (12.11.2020)
@@ -386,12 +390,12 @@ Single webpage about Lemon Drizzle Slices Recipe
 
 In order to see live version, just [click...!](https://hsnakk.github.io/UIB_Content_Exercise-2/)
 
-# My Solutiton:
+## My Solutiton:
 
 [index8.html](html/index8.html) <br>
 [styles5.css](css/styles5.css) <br>
 
-# Solution:
+## Solution:
 
 [index10.html](html/index10.html) <br>
 [styles6.css](css/styles6.css) <br>
@@ -414,9 +418,69 @@ In order to see live version, just [click...!](https://hsnakk.github.io/UIB_Cont
 
 ![alt-text](pics/reference-imageIV.jpg "Reference Image")
 
-# My Solution (identical with Alex's solution):
+## My Solution (identical with Alex's solution):
 
 [index9.html](html/index9.html) <br>
 [main.css](css/main.css) <br>
 
 [Back to Top](#exercise-overview)
+
+# Recipe Book
+
+## Exercise I
+
+- [x] In the `recipes` folder, create a new file with the basic html structure, with the following naming convention `index.html`.
+- [x] Create a meta tag with the name author and your name as the value.
+- [x] Change the title of the page to the name of the recipe.
+
+---
+
+## Exercise II
+
+- [x] Find and/or download an image for your recipe, and put it in the `img` folder.
+- [x] Add the image of your recipe to the html page, the fallback text for the image should be the name of the recipe, the image must be 500 px wide
+
+---
+
+## Exercise III
+
+- [x] Under the image, add the main heading of your page. The heading should be the name of your recipe.
+- [x] Add two secondary headings to your page. The first should say "Ingredients" and the second should say "Preparation".
+
+---
+
+## Exercise IV
+
+- [x] Under the "Ingredients" heading, add an unordered list for the ingredients of your recipe
+- [x] Under the "Preparation" heading, add an ordered list for the preparation of your recipe
+
+![mockup-image](pics/reference-imageIV.png)
+
+# Solution:
+
+[index11.html](html/index11.html) <br>
+
+[back to Top](#exercise-overview)
+
+<hr>
+
+# Exercise: Beyonce's Publicist
+
+**Instructions**:
+
+Beyonce's publicist hired you to create a social media link list for Beyonce herself! Your faithful designer has quickly created these little social media icons for you and put them online. All you need to do now is create a series of icons that link to all of Beyonce's social media profiles.
+
+1. Use the list of resources in the HTML file to create an unordered list of image links that contains a link to each of the social media profiles. Each link should open in a new tab.
+
+2. Add a hover tooltip to each of the links with Beyonce's username on each of the social media platforms.
+
+3. Make sure that there are no points before the list items.
+
+## Solution:
+
+[index12.html](html/index12.html) <br>
+[styles7.css](css/styles7.css) <br>
+
+[back to Top](#exercise-overview)
+
+<hr>
