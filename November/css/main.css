@@ -1,0 +1,37 @@
+main {
+  margin: 30px;
+}
+
+img {
+  height: 100px;
+}
+
+/* Task 1 */
+
+h3 {
+  color: blue;
+}
+
+/* Task 2 */
+
+.red {
+  color: red;
+}
+
+/* Task 3 */
+
+img + img {
+  border: blue solid;
+}
+
+/* Task 4 */
+
+a[href$=".com"] {
+  background-color: yellow;
+}
+
+/* Task 5 */
+
+#task5 {
+  color: blue;
+}
