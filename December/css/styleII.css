@@ -1,0 +1,30 @@
+:root {
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+}
+
+.fixme1 img {
+  width: 200px;
+  display: block;
+}
+
+.fixme2 div {
+  font-size: 2rem;
+  display: inline-block;
+}
+
+.fixme3 li {
+  display: inline-block;
+  padding-right: 2rem;
+  font-size: 1.5rem;
+}
+
+.fixme3 {
+  background-color: yellow;
+  padding: 1rem 1rem;
+  list-style-type: none;
+  text-align: center;
+}
