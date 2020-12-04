@@ -1,17 +1,65 @@
-body {
-  font-family: "Roboto", sans-serif;
+/* ////////////////////////////////////////// */
+
+/* My Solution  */
+
+/* :root {
+  box-sizing: border-box;
 }
 
-.header {
-  height: 100vh;
+* {
+  box-sizing: inherit;
 }
 
-.header__img {
-  width: 100%;
-  height: 100%;
+.fixme1 img {
+  width: 200px;
+  display: block;
 }
 
-.container {
-  width: 80%;
-  margin: auto;
+.fixme2 div {
+  font-size: 2rem;
+  display: inline-block;
+}
+
+.fixme3 li {
+  display: inline-block;
+  padding-right: 2rem;
+  font-size: 1.5rem;
+}
+
+.fixme3 {
+  background-color: yellow;
+  padding: 1rem 1rem;
+  list-style-type: none;
+  text-align: center;
+} */
+
+/* ////////////////////////////////////////// */
+
+/* Solution  */
+
+.fixme1 img {
+  display: block;
+  width: 200px;
+}
+
+.fixme2 {
+  font-size: 300%;
+}
+
+.fixme2 div {
+  display: inline-block;
+}
+
+.fixme3 li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+
+.fixme3 {
+  background-color: yellow;
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+  margin: 0;
 }

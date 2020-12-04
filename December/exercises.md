@@ -15,8 +15,13 @@
 
 ## My Solution:
 
-[indexII.html](html/indexII.html) <br>
-[styleII.css](css/styleII.css) <br>
+[index.html](html/index.html) <br>
+[style.css](css/style.css) <br>
+
+## Solution:
+
+[index.html](html/index.html) <br>
+[style.css, 2nd part](css/style.css) <br>
 
 [To Top](#exercise-overview)
 
