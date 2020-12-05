@@ -533,8 +533,8 @@ Beyonce's publicist hired you to create a social media link list for Beyonce her
 
 ## Solution:
 
-[indexI.html](html/indexI.html) <br>
-[styleI.css](css/styleI.css) <br>
+[index14.html](html/index14.html) <br>
+[styles7.css](css/styles7.css) <br>
 
 [To Top](#exercise-overview)
 
