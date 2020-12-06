@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  background-color: antiquewhite;
+  min-height: 100vh;
+}
+
+.content-container {
+  height: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  color: darkred;
+}
+
+blockquote {
+  padding: 60px 0;
+}
+
+blockquote footer {
+  color: black;
+  text-align: right;
+}
+
+.pattern {
+  background-image: url(/pics/pattern.jpg);
+  background-repeat: repeat-x;
+  background-size: 120%;
+  height: 20vh;
+  background-position: center bottom;
+}
+
+.pattern--top {
+  background-position: center top;
+}
+
+.pattern--bottom {
+  background-position: center bottom;
+}
+
+.pattern--small {
+  background-size: 20%;
+  height: 10vh;
+}
