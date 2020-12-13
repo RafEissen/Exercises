@@ -4,9 +4,14 @@
 [Travel Webpage- 2.12.20](#travel-webpage) <br>
 [Background Patterns - 2.12.20](#background-patterns) <br>
 [Breaking the flow - 3.12.20](#breaking-the-flow) <br>
+[Stairway To Heaven - 3.12.20](#stairway-to-heaven) <br>
+[Gradient Hero - 3.12.20](#gradient-hero) <br>
 [UI-Basics Test - 7.12.20](#ui-basics-test-first-test) <br>
-
-UI-Basics Test: First Test
+[Shopping List - 8.12.20](#shopping-list) <br>
+[Text Styling & Formatting - 8.12.20](#exercise-text-styling-and-formatting) <br>
+[Profile Card - 8.12.20](#profile-card) <br>
+[Pseudo Element Style - 9.12.20](#pseudo-element-style) <br>
+[Make your fonts awesome! - 9.12.20](#make-your-fonts-awesome) <br>
 
 <hr>
 
@@ -22,7 +27,6 @@ UI-Basics Test: First Test
 ## My Solution:
 
 [index.html](html/index.html) <br>
-[style.css](css/style.css) <br>
 
 ## Solution:
 
@@ -49,7 +53,6 @@ You will create a simple travel agency page with text and an image
 ## Solution:
 
 [indexI.html](html/indexI.html) <br>
-[styleI.css](css/styleI.css) <br>
 
 [To Top](#exercise-overview)
 
@@ -69,7 +72,6 @@ Take a look into the [blockquote](https://developer.mozilla.org/en-US/docs/Web/H
 ## Solution:
 
 [indexII.html](html/indexII.html) <br>
-[styleII.css](css/styleII.css) <br>
 
 [To Top](#exercise-overview)
 
@@ -99,7 +101,6 @@ Take a look into the [blockquote](https://developer.mozilla.org/en-US/docs/Web/H
 ## Solution:
 
 [indexIII.html](html/indexIII.html) <br>
-[styleIII.css](css/styleIII.css) <br>
 
 [To Top](#exercise-overview)
 
@@ -154,8 +155,217 @@ Take a look into the [blockquote](https://developer.mozilla.org/en-US/docs/Web/H
 ## Solution:
 
 [indexIV.html](html/indexIV.html) <br>
-[styleIV.css](css/styleIV.css) <br>
 
 [To Top](#exercise-overview)
 
 <hr>
+
+# Stairway To Heaven
+
+Build a staircase with divs!
+
+Apply `width`, `height`, `background-color`, `margin` (no `padding`!) and `box-sizing`.
+
+It should look like the reference image below.
+
+![margin staircase](pics/margin-staircase.png)
+
+Now, build another staircase applying the same properties **except** this time use `padding` and not `margin`.
+
+It should look like the reference image below.
+
+![padding staircase](pics/padding-staircase.png)
+
+Good luck and have fun!
+
+## My Solution:
+
+Applies to "margin" section using only positioning.
+
+[indexVI.html](html/indexVI.html)
+
+## Solution:
+
+[indexV.html](html/indexV.html)
+
+[To Top](#exercise-overview)
+
+<hr>
+
+# Gradient Hero
+
+Let's recreate the following effect with CSS gradients.
+
+## Gradients and image
+
+![example desktop](pics/example-01-desktop.png)
+
+- [Further reference](https://css-tricks.com/css3-gradients/)
+
+## Extra
+
+### Ball with 3D effect
+
+![example 3d ball](pics/example-02.png)
+
+### Gradient with stops
+
+![example desktop](pics/example-03-desktop.png)
+
+![example mobile](pics/example-03-mobile.png)
+
+## Solution:
+
+[indexVII.html](html/indexVII.html)
+
+[To Top](#exercise-overview)
+
+<hr>
+
+# Shopping List
+
+**Instructions**:
+
+- Choose a font on google fonts. Select different font weights e.g. light, regular, bold. Apply the font to all the elements on the page.
+- Create a stylesheet and work from there.
+- Underline the h1 heading.
+- Give all list items a light font weight.
+- Give all headings with the class of `heading` a shadow and, in CSS, make all these elements appear uppercase.
+- Give the element with the class of `note` a bold font weight. Make the text appear italic.
+- Strike through all the elements with the class `todo-item`.
+
+![alt text](pics/reference-image3.png "Shopping List Result")
+
+## Solution:
+
+[indexX.html](html/indexX.html)
+
+[To Top](#exercise-overview)
+
+<hr>
+
+# Basic Typography Exercises
+
+## Exercise: Text styling and formatting
+
+**Instructions**:
+
+- Change the `body`'s font color and font family. Use a fallback system.
+- Change the headings' font family, use a fallback system and make them bold.
+- Make the `<h1>` 3 times the size of the base font-size.
+- Make the `<h3>` 1.5 times the size of the base font-size. Center this element.
+- Make the `blockquote`'s text italic.
+- Cross out the `<span>`.
+- Make the `<em>`'s words all start with a capital letter.
+- Make the `<strong>` element all capital and bold.
+- Change the color of the link and remove its underline.
+
+**Bonus**:
+
+- Decrease the space between the `<h3>`'s letters and increase the space between its words.
+- Add more space between the `blockquote`'s lines.
+
+![mockup-image](pics/reference-image.png)
+
+## Solution:
+
+[indexVIII.html](html/indexVIII.html)
+
+[To Top](#exercise-overview)
+
+<hr>
+
+# Profile Card
+
+Create the "card" element shown in the reference image below -
+
+![reference pic](pics/reference-sanchez.png)
+
+### Instructions
+
+- Put the element with the content in the middle of the page
+- Add a white border to the element
+- Add the image using the `<img>` element, not `background-image`
+- Add elements for first and last name
+- Make first and last name appear to be going over the border as in the reference
+- Style the rest to your taste
+
+## Solution:
+
+[indexIX.html](html/indexIX.html)
+
+[To Top](#exercise-overview)
+
+<hr>
+
+# Pseudo Element Style
+
+### Part 1
+
+- Generate an unordered list of lorem ipsum quotes using emmet
+
+- Apply pseudo elements to place a quote icon before and after each quote
+
+- Use this link for the source image - https://s3-us-west-2.amazonaws.com/s.cdpn.io/161359/quotes.png
+
+#### Mockup
+
+![part-1](pics/part-1.png)
+
+### Part 2
+
+Using pseudo elements, replicate the mockup shown below.
+
+![part-2](pics/part-2.png)
+
+- After each file entry we want to display the corresponding file type as an icon
+
+- Use attribute selectors to select files by type and then use a pseudo element to place the matching file type icon after each list entry
+
+#### Icons
+
+> **PDF** - https://img.icons8.com/officel/64/000000/pdf.png
+>
+> **XLS** - https://img.icons8.com/dusk/64/000000/ms-excel.png
+>
+> **DOC** - https://img.icons8.com/dusk/64/000000/ms-word.png
+
+### Part 3
+
+Using pseudo elements `::before` and `::after`, create the 'sandwich div' shown below.
+
+![part-3](pics/part-3.png)
+
+- These borders are not REAL borders - make the pseudo elements block level elements with width and height and give them a linear gradient as background
+
+- The top and bottom gradients should alternate in direction
+
+## Solution:
+
+[indexXI.html](html/indexXI.html)
+
+[To Top](#exercise-overview)
+
+<hr>
+
+# Make your fonts awesome!
+
+**Instructions**:
+
+- Add a font awesome icon to the front and back of the h1 heading.
+- Center and underline the h1 heading.
+- Center the element with the class `review`. Give this element text shadow and display the text as uppercase.
+- Add icons to the front of each paragraph element nested in the sections with the class `info`.
+- Add appropriate icons after each possible review.
+- Resize the icons on the page.
+
+- Desktop
+  ![alt-text](pics/reference-image-desktop.png "Reference Image Desktop")
+- Mobile
+  ![alt-text](pics/reference-image-mobile.png "Reference Image Desktop")
+
+## Solution:
+
+[indexXII.html](html/indexXII.html)
+
+[To Top](#exercise-overview)

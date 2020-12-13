@@ -1,0 +1,50 @@
+:root {
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+  /* border: 1px solid black; */
+}
+
+main {
+  width: 495px;
+  height: 495px;
+  position: relative;
+  border: 5px solid rgb(255, 68, 180);
+  display: block;
+}
+
+.box {
+  width: 121.25px;
+  height: 121.25px;
+  position: absolute;
+  background-color: rgb(15, 255, 0);
+}
+
+.box1 {
+  /* position: absolute; */
+  bottom: 0px;
+  border: 5px solid rgb(105, 105, 105);
+}
+
+.box2 {
+  /* position: absolute; */
+  bottom: 121.25px;
+  left: 121.25px;
+}
+
+.box3 {
+  /* position: absolute; */
+  bottom: 242.5px;
+  border: 5px solid rgb(105, 105, 105);
+  left: 242.5px;
+}
+
+.box4 {
+  /* position: absolute; */
+  bottom: 363.75px;
+  right: 0px;
+}
