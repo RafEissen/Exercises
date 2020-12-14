@@ -369,3 +369,25 @@ Using pseudo elements `::before` and `::after`, create the 'sandwich div' shown 
 [indexXII.html](html/indexXII.html)
 
 [To Top](#exercise-overview)
+
+<hr>
+
+# Elevation
+
+Recreate this elevated card effect:
+
+![Example](pics/card-headline.png)
+
+- Which CSS properties do we need to create the 3D effect and color gradience?
+
+- Attempt to make it as pixel-perfect as possible
+
+- Have fun!
+
+# Solution:
+
+[indexXIII.html](html/indexXIII.html)
+
+[To Top](#exercise-overview)
+
+<hr>
