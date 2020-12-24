@@ -12,8 +12,12 @@
 [Profile Card - 8.12.20](#profile-card) <br>
 [Pseudo Element Style - 9.12.20](#pseudo-element-style) <br>
 [Make your fonts awesome! - 9.12.20](#make-your-fonts-awesome) <br>
+[Let the light in - 10.12.20](#elevation) <br>
+[Styling Forms - 15.12.20](#make-your-fonts-awesome) <br>
 
 <hr>
+
+## ////////////////////////////////////////////////////////////
 
 # Exercise: CSS Display Property
 
@@ -58,6 +62,8 @@ You will create a simple travel agency page with text and an image
 
 <hr>
 
+## ////////////////////////////////////////////////////////////
+
 # Background Patterns
 
 Let's create a simple page displaying a quote!
@@ -76,6 +82,8 @@ Take a look into the [blockquote](https://developer.mozilla.org/en-US/docs/Web/H
 [To Top](#exercise-overview)
 
 <hr>
+
+## ////////////////////////////////////////////////////////////
 
 # Breaking the flow
 
@@ -105,6 +113,8 @@ Take a look into the [blockquote](https://developer.mozilla.org/en-US/docs/Web/H
 [To Top](#exercise-overview)
 
 <hr>
+
+## ////////////////////////////////////////////////////////////
 
 # UI-Basics Test: First Test
 
@@ -160,6 +170,8 @@ Take a look into the [blockquote](https://developer.mozilla.org/en-US/docs/Web/H
 
 <hr>
 
+## ////////////////////////////////////////////////////////////
+
 # Stairway To Heaven
 
 Build a staircase with divs!
@@ -192,6 +204,8 @@ Applies to "margin" section using only positioning.
 
 <hr>
 
+## ////////////////////////////////////////////////////////////
+
 # Gradient Hero
 
 Let's recreate the following effect with CSS gradients.
@@ -222,6 +236,8 @@ Let's recreate the following effect with CSS gradients.
 
 <hr>
 
+## ////////////////////////////////////////////////////////////
+
 # Shopping List
 
 **Instructions**:
@@ -243,6 +259,8 @@ Let's recreate the following effect with CSS gradients.
 [To Top](#exercise-overview)
 
 <hr>
+
+## ////////////////////////////////////////////////////////////
 
 # Basic Typography Exercises
 
@@ -275,6 +293,8 @@ Let's recreate the following effect with CSS gradients.
 
 <hr>
 
+## ////////////////////////////////////////////////////////////
+
 # Profile Card
 
 Create the "card" element shown in the reference image below -
@@ -297,6 +317,8 @@ Create the "card" element shown in the reference image below -
 [To Top](#exercise-overview)
 
 <hr>
+
+## ////////////////////////////////////////////////////////////
 
 # Pseudo Element Style
 
@@ -348,6 +370,8 @@ Using pseudo elements `::before` and `::after`, create the 'sandwich div' shown 
 
 <hr>
 
+## ////////////////////////////////////////////////////////////
+
 # Make your fonts awesome!
 
 **Instructions**:
@@ -372,6 +396,8 @@ Using pseudo elements `::before` and `::after`, create the 'sandwich div' shown 
 
 <hr>
 
+## ////////////////////////////////////////////////////////////
+
 # Elevation
 
 Recreate this elevated card effect:
@@ -391,3 +417,21 @@ Recreate this elevated card effect:
 [To Top](#exercise-overview)
 
 <hr>
+
+## ////////////////////////////////////////////////////////////
+
+## Styling Forms
+
+**Instructions**:
+
+1.  Create a basic HTML page with all important elements.
+2.  Look at the mockup image. Create a form and style it like the mockup.
+3.  Use the provided images in the img folder.
+
+## Bonus Tasks
+
+1. Add validation to these fields
+2. Style (at least) focus, hover, and valid states.
+3. Add a toggle switch for a smoker option.
+
+![mockup-image](pics/reference-image4.png)

@@ -1,0 +1,32 @@
+:root {
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+}
+
+body {
+  background-color: #000;
+}
+
+.logo_section {
+  height: 62vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.01) 97%, rgba(0, 0, 0, 0.9)),
+    url(/pics/background.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+.logo-img {
+  width: 38rem;
+  height: 37.5rem;
+  margin: auto auto;
+}
+
+img {
+  margin: 0.8rem auto;
+}
