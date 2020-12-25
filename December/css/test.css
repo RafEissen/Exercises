@@ -6,27 +6,78 @@
   box-sizing: inherit;
   padding: 0;
   margin: 0;
-  border: 1px solid rgba(255, 255, 255, 0.7);
+  font-family: -apple-system;
+  border: 1px solid rgba(60, 30, 233, 0.4);
 }
 
-body {
-  background-color: #000;
+header {
+  width: 100wh;
+  text-align: left;
+  padding: 1rem 1rem;
+  color: rgb(255, 255, 255);
+  background-color: rgb(53, 58, 64);
+  font-size: 1.25rem;
+  font-weight: 500;
 }
 
-.logo_section {
-  height: 62vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.01) 97%, rgba(0, 0, 0, 0.9)),
-    url(/pics/background.jpg);
-  background-repeat: no-repeat;
-  background-position: top;
+.box {
+  display: table-cell;
 }
 
-.logo-img {
-  width: 38rem;
-  height: 37.5rem;
-  margin: auto auto;
+.personal-data,
+.products-data {
+  width: 25%;
+  padding: 1rem 0.5rem 0 1rem;
 }
 
-img {
-  margin: 0.8rem auto;
+.personal-data .stuff {
+  padding: 0 2rem 1.5rem 0;
+  border: 1px solid black;
 }
+
+.stuff legend {
+  padding: 0 0.7rem;
+  margin: 0 1rem;
+  font-weight: 700;
+  color: rgb(55, 102, 184);
+  font-size: 1.2rem;
+}
+
+.stuff label {
+  display: block;
+  padding: 1rem 0 0.5rem 1rem;
+  font-weight: 700;
+}
+
+.stuff input {
+  padding: 0.4rem 3rem;
+  width: 100%;
+  margin-left: 1rem;
+}
+
+.stuff textarea {
+  padding: 0rem 0.2rem;
+  margin-left: 1rem;
+  height: 6rem;
+  width: 100%;
+  font-family: monospace;
+  line-height: 1.4rem;
+}
+
+.products-data .stuff {
+  border: 1px solid black;
+}
+
+.stuff .web-design {
+  /* position: relative; */
+}
+
+.web-design input {
+  /* margin: 0 0 0 -16.7rem; */
+  /* margin-left: -17rem; */
+}
+
+/* .web-design label {
+  padding: 0 6rem;
+  font-weight: 400;
+} */

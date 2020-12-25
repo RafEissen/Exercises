@@ -420,6 +420,24 @@ Recreate this elevated card effect:
 
 ## ////////////////////////////////////////////////////////////
 
+## Exercise: Form 1
+
+**Instructions**:
+
+1.  Create a form wherein a user can input their details and choose their respective skills. See the image for the input fields, skills and design of the form.
+
+![mockup-image](pics/mockup.png)
+
+# Solution:
+
+[indexXV.html](html/indexXV.html)
+
+[To Top](#exercise-overview)
+
+<hr>
+
+## ////////////////////////////////////////////////////////////
+
 ## Styling Forms
 
 **Instructions**:
@@ -435,3 +453,11 @@ Recreate this elevated card effect:
 3. Add a toggle switch for a smoker option.
 
 ![mockup-image](pics/reference-image4.png)
+
+# Solution:
+
+[indexXIV.html](html/indexXIV.html)
+
+[To Top](#exercise-overview)
+
+<hr>
