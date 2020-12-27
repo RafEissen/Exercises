@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title></title>
+    <link rel="stylesheet" href="/css/styleXVI.css" />
+  </head>
+  <body>
+    <header>Forms</header>
+    <main>
+      <section class="box personal-data">
+        <form action="#" method="get">
+          <fieldset class="stuff">
+            <legend>Personal Data</legend>
+            <label class="label" for="firstname">First name:</label>
+            <input type="text" name="firstname" id="firstname" />
+            <label class="label" for="lastname">Last name:</label>
+            <input type="text" name="lastname" id="lastname" />
+            <label class="label" for="street">Street:</label>
+            <input type="text" name="street" id="street" />
+            <label class="label" for="zipcode">Zipcode:</label>
+            <input type="text" name="zipcode" id="zipcode" />
+            <label class="label" for="city">City:</label>
+            <input type="text" name="city" id="city" />
+            <label class="label" for="phone">Phone:</label>
+            <input type="tel" name="phone" id="phone" />
+            <label class="label" for="email">Email:</label>
+            <input type="email" name="email" id="email" />
+            <label for="comments">Comments:</label>
+            <textarea
+              name="comments"
+              rows="4"
+              placeholder="Tell us more about important colors, etc."
+            ></textarea>
+          </fieldset>
+        </form>
+      </section>
+
+      <section class="box products-data">
+        <form action="#" method="get">
+          <fieldset class="another-stuff">
+            <legend>Products</legend>
+            <label for="webdesign">Web Design:</label>
+            <div class="web-design">
+              <input type="radio" id="indi" value="indi" checked />
+              <label for="indi">Individual</label>
+            </div>
+          </fieldset>
+        </form>
+      </section>
+    </main>
+  </body>
+</html>

@@ -13,6 +13,7 @@
 [Pseudo Element Style - 9.12.20](#pseudo-element-style) <br>
 [Make your fonts awesome! - 9.12.20](#make-your-fonts-awesome) <br>
 [Let the light in - 10.12.20](#elevation) <br>
+[Table 1 - 14.12.20](#exercise-table-1) <br>
 [Styling Forms - 15.12.20](#make-your-fonts-awesome) <br>
 
 <hr>
@@ -428,9 +429,75 @@ Recreate this elevated card effect:
 
 ![mockup-image](pics/mockup.png)
 
-# Solution:
+## My Solution (not finished):
+
+[indexXVI.html](html/indexXVI.html)
+
+## Solution:
 
 [indexXV.html](html/indexXV.html)
+
+[To Top](#exercise-overview)
+
+<hr>
+
+## ////////////////////////////////////////////////////////////
+
+# Basic Data Exercises
+
+## Exercise: Table 1
+
+**Instructions**:
+
+1.  Create a basic HTML page with all important elements.
+2.  Look at the mockup file and create the following table with 4 columns and use the company logo from their website. The logo should link to the company's website in new tab.
+
+| Logo | Company   | Phone          | Website                                                  |
+| ---- | --------- | -------------- | -------------------------------------------------------- |
+| Logo | Microsoft | 0800 200 55 88 | [https://www.microsoft.com/](https://www.microsoft.com/) |
+| Logo | Amazon    | 0800 100 38 44 | [https://www.amazon.de/](https://www.amazon.de/)         |
+
+3.  Use a link that always opens in a new tab / window, for the website in the last column.
+4.  Do NOT use deprecated HTML attributes. Style using CSS.
+
+- Mock-up Image
+  ![companies-table](pics/mockup-table.png)
+
+  ## Solution:
+
+[indexXVII.html](html/indexXVII.html)
+
+[To Top](#exercise-overview)
+
+<hr>
+
+## ////////////////////////////////////////////////////////////
+
+## Exercise: Table 2
+
+**Instructions**:
+
+1.  Create a basic HTML page with all important elements.
+2.  Look at the mockup file and create the following table with 3 columns.
+
+| Company                      | Contact          | Amount |
+| ---------------------------- | ---------------- | ------ |
+| Alfreds Futterkiste          | Maria Anders     | 45     |
+| Centro comercial Moctezuma   | Francisco Chang  | 45     |
+| Ernst Handel                 | Roland Mendel    | 35     |
+| Island Trading               | Helen Bennett    | 20     |
+| Laughing Bacchus Winecellars | Yoshi Tannamuri  | 20     |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli | 45     |
+| Total                        |                  | 210    |
+
+3.  Style it with zebra stripes using pseudo child selectors.
+4.  Do NOT use deprecated HTML attributes. Style using CSS.
+
+![mockup-image](pics/mockup-table.png)
+
+## Solution:
+
+[indexXIV.html](html/indexXIV.html)
 
 [To Top](#exercise-overview)
 
@@ -454,7 +521,7 @@ Recreate this elevated card effect:
 
 ![mockup-image](pics/reference-image4.png)
 
-# Solution:
+## Solution:
 
 [indexXIV.html](html/indexXIV.html)
 
