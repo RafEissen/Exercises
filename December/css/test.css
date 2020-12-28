@@ -9,26 +9,3 @@
   /* font-family: "Times New Roman", Times, serif; */
   /* border: 1px solid rgba(60, 30, 233, 0.4); */
 }
-
-table {
-  margin: 1rem;
-  border-collapse: collapse;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  font-family: arial, sans-serif;
-}
-
-th,
-tr,
-td {
-  padding: 0.5rem;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  width: 20rem;
-}
-
-td:last-child {
-  text-align: right;
-}
-
-tr:nth-child(odd) {
-  background-color: #dddddd;
-}

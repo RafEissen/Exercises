@@ -1,0 +1,32 @@
+:root {
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+  /* font-family: "Times New Roman", Times, serif; */
+  /* border: 1px solid rgba(60, 30, 233, 0.4); */
+}
+
+table {
+  padding: 2rem 5.5rem;
+}
+
+tr,
+td {
+  padding: 0.6rem 0.8rem;
+  border: 5px solid rgb(192, 192, 192);
+  border-style: none none none solid;
+}
+
+tr:nth-of-type(odd) :first-child {
+  border: 5px solid rgb(204, 24, 27);
+  border-style: none none none solid;
+}
+
+tr:nth-of-type(even) :first-child {
+  border: 5px solid rgb(68, 157, 69);
+  border-style: none none none solid;
+}

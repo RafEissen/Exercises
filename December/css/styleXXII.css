@@ -1,0 +1,41 @@
+:root {
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+  /* font-family: "Times New Roman", Times, serif; */
+  /* border: 1px solid rgba(60, 30, 233, 0.4); */
+}
+
+table {
+  margin: 2rem 5rem;
+}
+
+tr td {
+  padding: 0.7rem 0.8rem;
+  background-color: #efefef;
+}
+
+thead tr td {
+  background-color: rgb(136, 136, 136);
+  color: rgba(255, 255, 255, 0.9999);
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+
+tbody tr:nth-of-type(odd) td {
+  background-color: #c0c0c0;
+}
+
+/* You can use either this code or the next one in order to paint middle cells in 3rd and 6th row*/
+
+/* tbody tr:nth-of-type(3n) td:not(:first-child, :last-child) {
+    background-color: #ffbbbb;
+  } */
+
+tbody tr:nth-of-type(3n) td:nth-of-type(2n) {
+  background-color: #ffbbbb;
+}

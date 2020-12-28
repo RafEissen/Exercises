@@ -14,6 +14,9 @@
 [Make your fonts awesome! - 9.12.20](#make-your-fonts-awesome) <br>
 [Let the light in - 10.12.20](#elevation) <br>
 [Table 1 - 14.12.20](#exercise-table-1) <br>
+[Table 2 - 14.12.20](#exercise-table-2) <br>
+[Table 3 - 14.12.20](#exercise-table-3) <br>
+[Table 4 - 14.12.20](#exercise-table-4) <br>
 [Styling Forms - 15.12.20](#make-your-fonts-awesome) <br>
 
 <hr>
@@ -505,6 +508,44 @@ Recreate this elevated card effect:
 
 ## ////////////////////////////////////////////////////////////
 
+## Exercise: Table 3
+
+**Instructions**:
+
+1.  Create a basic HTML page with all important elements.
+2.  Look at the mockup file and create the table shown using the `:first-child`, `:last-child`, `:nth-child` and `:not` pseudo classes.
+3.  Do NOT use deprecated HTML attributes. Style using CSS.
+4.  Used colors are: #c0c0c0, #cc181b, #449d45.
+
+![mockup-image](pics/mockup-table-styling.jpg)
+
+## ////////////////////////////////////////////////////////////
+
+## Exercise: Table 4
+
+**Instructions**:
+
+1.  Create a basic HTML page with all important elements.
+2.  Look at the mockup file and create the table shown using the `:first-child`, `:last-child`, `:nth-child` and `:not` pseudo classes.
+3.  Do NOT use deprecated HTML attributes. Style using CSS.
+4.  Used colors are; #c0c0c0, #888888, #efefef, #ffbbbb.
+
+![mockup-image](pics/mockup-tables4.jpg)
+
+## Solution:
+
+[indexXXI.html](html/indexXXI.html)
+
+## Solution No2:
+
+[indexXXII.html](html/indexXXII.html)
+
+[To Top](#exercise-overview)
+
+<hr>
+
+## ////////////////////////////////////////////////////////////
+
 ## Styling Forms
 
 **Instructions**:
@@ -512,6 +553,18 @@ Recreate this elevated card effect:
 1.  Create a basic HTML page with all important elements.
 2.  Look at the mockup image. Create a form and style it like the mockup.
 3.  Use the provided images in the img folder.
+
+## Solution:
+
+[indexXIX.html](html/indexXIX.html)
+
+## Solution No2:
+
+[indexXX.html](html/indexXX.html)
+
+[To Top](#exercise-overview)
+
+<hr>
 
 ## Bonus Tasks
 
