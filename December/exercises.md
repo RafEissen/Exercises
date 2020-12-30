@@ -18,6 +18,7 @@
 [Table 3 - 14.12.20](#exercise-table-3) <br>
 [Table 4 - 14.12.20](#exercise-table-4) <br>
 [Styling Forms - 15.12.20](#make-your-fonts-awesome) <br>
+[Transparent Login- 16.12.20](#transparent-login) <br>
 
 <hr>
 
@@ -60,7 +61,13 @@ You will create a simple travel agency page with text and an image
 
 ## Solution:
 
+[indexXXIII.html](html/indexXXIII.html) <br>
+[styleXXIII.css](css/styleXXIII.css) <br>
+
+## Solution No2:
+
 [indexI.html](html/indexI.html) <br>
+[styleI.css](css/styleI.css) <br>
 
 [To Top](#exercise-overview)
 
@@ -82,6 +89,7 @@ Take a look into the [blockquote](https://developer.mozilla.org/en-US/docs/Web/H
 ## Solution:
 
 [indexII.html](html/indexII.html) <br>
+[styleII.css](css/styleII.css) <br>
 
 [To Top](#exercise-overview)
 
@@ -577,6 +585,35 @@ Recreate this elevated card effect:
 ## Solution:
 
 [indexXIV.html](html/indexXIV.html)
+
+[To Top](#exercise-overview)
+
+<hr>
+
+## ////////////////////////////////////////////////////////////
+
+# Transparent Login
+
+Create and style a form as shown in the mockup below.
+
+![transparent-login](pics/transparent-login.png)
+
+- The form should be centered in the body
+
+- The background image should cover the whole body - use any image you like
+
+- A gradient should also be applied to the body for a darkened filter effect
+
+- All inputs are transparent
+
+- The placeholder should be bold on field selection
+
+- Use **Font-Awesome** icons for the input fields
+
+## Solution:
+
+[indexXIV.html](html/indexXIV.html) <br>
+[styleXIV.css](css/styleXIV.css) <br>
 
 [To Top](#exercise-overview)
 
