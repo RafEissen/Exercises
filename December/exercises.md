@@ -17,8 +17,8 @@
 [Table 2 - 14.12.20](#exercise-table-2) <br>
 [Table 3 - 14.12.20](#exercise-table-3) <br>
 [Table 4 - 14.12.20](#exercise-table-4) <br>
-[Styling Forms - 15.12.20](#make-your-fonts-awesome) <br>
-[Transparent Login- 16.12.20](#transparent-login) <br>
+[Styling Forms - 15.12.20](#styling-forms) <br>
+[Transparent Login- 16.12.20](#transparent-logina) <br>
 
 <hr>
 
@@ -424,7 +424,8 @@ Recreate this elevated card effect:
 
 # Solution:
 
-[indexXIII.html](html/indexXIII.html)
+[indexXIII.html](html/indexXIII.html) <br>
+[styleXIII.css](css/styleXIII.css) <br>
 
 [To Top](#exercise-overview)
 
@@ -440,13 +441,15 @@ Recreate this elevated card effect:
 
 ![mockup-image](pics/mockup.png)
 
-## My Solution (not finished):
-
-[indexXVI.html](html/indexXVI.html)
-
 ## Solution:
 
-[indexXV.html](html/indexXV.html)
+[indexXV.html](html/indexXV.html) <br>
+[styleXV.css](css/styleXV.css) <br>
+
+## Solution No 2:
+
+[indexXVI.html](html/indexXVI.html) <br>
+[styleXVI.css](css/styleXVI.css) <br>
 
 [To Top](#exercise-overview)
 
@@ -597,6 +600,8 @@ Recreate this elevated card effect:
 Create and style a form as shown in the mockup below.
 
 ![transparent-login](pics/transparent-login.png)
+
+---
 
 - The form should be centered in the body
 
